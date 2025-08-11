@@ -36,7 +36,7 @@ apache-helm/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/<your-username>/apache-helm.git
+   git clone https://github.com/singh-gauravv/apache-helm.git
    cd apache-helm
    ```
 
